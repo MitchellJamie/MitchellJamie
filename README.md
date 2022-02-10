@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MitchellJamie
+- 👋 Hi, I’m @MitchellJamie (aka Jamie Mitchell)
 - 👀 I’m interested in IaC on GCP
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on test projects
